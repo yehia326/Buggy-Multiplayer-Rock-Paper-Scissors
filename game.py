@@ -1,5 +1,3 @@
-import random
-
 def get_player_choice(player_num):
     choice = input(f"Player {player_num}, enter your choice (rock, paper, scissors): ".lower()  #
 
